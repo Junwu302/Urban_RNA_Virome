@@ -13,4 +13,4 @@ While we make no promise regarding the portability of this ensemble, should you 
 
 Further information
 ---------------------------
-Data from the project is deposited in Geoseeq [Geoseeq]([https://doi.org/10.5281/zenodo.7368133](https://portal.geoseeq.com/)).  
+Data from the project is deposited in [Geoseeq]([https://doi.org/10.5281/zenodo.7368133](https://portal.geoseeq.com/)).  
