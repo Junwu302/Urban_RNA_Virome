@@ -1,3 +1,4 @@
+# The network graph illustrates the similarity among varied environments concerning prevalent Urban-RvOTUs.
 # Co-occurence
 load('../Urban_RNA_Virus_Data/RvOTU_abd.RData')
 load('../Urban_RNA_Virus_Data/meta_info.RData')
