@@ -1,4 +1,5 @@
 # Accumulation curve
+# data used for plot is generated using the specaccum function in the vegan package
 library(ggplot2)
 library(ggthemes)
 library(eoffice)
