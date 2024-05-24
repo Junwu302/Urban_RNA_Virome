@@ -5,7 +5,7 @@
 </p> 
 
 ## Description:   
-Code and scripts from to the RNA viruses in diverse urban environments.    
+Code and scripts for analyzing the distribution of RNA viruses in diverse urban environments. The scripts used for directional selection analysis were provided by Dr. Alexander G Lucaci from Weill Cornell Medicine.   
 
 Disclaimer  
 ---------------------------
