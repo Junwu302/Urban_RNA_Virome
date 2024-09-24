@@ -25,7 +25,7 @@ checkm coverage -x fna vOTU_dir/ vOTU_abun.out abun.sorted.bam
 # RdRP extraction
 psiblast -query contigs_6frame_translation.faa -db rdrp_ref_v3 -o match -num_iterations 3
 hmmsearch -o mot.XX.match mot.XX.afa.hmm rdrp_draft.faa
-Libraries of motif A\B\C\D were searched separately and RdRP drafts cover at least 3 of them were considered as complete core RdRP.
+# Libraries of motif A\B\C\D were searched separately and RdRP drafts cover at least 3 of them were considered as complete core RdRP.
 
 # Tree buiding
 muscle -align core_rdrp.faa -output core_rdrp.afa
